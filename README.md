@@ -54,8 +54,5 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 ## Contact
 
-If you want to contact me, you can reach me at `rishiraj.maheshwari007@gmail.com`.
+If you want to contact me, you can reach me at `aadityamishra1509@gmail.com`.
 
-## License
-
-This project uses the following license: [<license_name>](<link_to_license>).
